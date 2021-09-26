@@ -6,12 +6,13 @@ Patika.dev platformunda veri bilimi için özelleştirilmiş patikadaki eğitiml
 
 - [Veri Yapıları ve Algoritmalar](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar) ✅
 - [GIT](https://app.patika.dev/moduller/git) ✅
+- [İleri Seviye GIT](https://app.patika.dev/moduller/ileri-seviye-git) ✅
 - [Python Temel](https://app.patika.dev/moduller/python-temel) ✅
 - [Veri Bilimine Giriş](https://app.patika.dev/moduller/veri-bilimine-giris) ✅
 - [Temel Matematik](https://app.patika.dev/moduller/temel-matematik) ✅
-- [SQL](https://app.patika.dev/moduller/sql) ✏️
-- [İleri Python](https://app.patika.dev/moduller/ileri-python)
-- [Python-Numpy](https://app.patika.dev/moduller/python-numpy)
+- [SQL](https://app.patika.dev/moduller/sql) ✅
+- [İleri Python](https://app.patika.dev/moduller/ileri-python) ✅
+- [Python-Numpy](https://app.patika.dev/moduller/python-numpy) ✏️
 - [Yazılım Dünyasında Kariyer Basamakları](https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari) ✏️
 - [Veri Bilimi 101](https://app.patika.dev/moduller/veri-bilimi-101)
 - [Veri Bilimi Projeleri](https://app.patika.dev/moduller/veri-bilimi-projeleri)
