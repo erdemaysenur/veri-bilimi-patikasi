@@ -12,11 +12,11 @@ Patika.dev platformunda veri bilimi için özelleştirilmiş patikadaki eğitiml
 - [Temel Matematik](https://app.patika.dev/moduller/temel-matematik) ✅
 - [SQL](https://app.patika.dev/moduller/sql) ✅
 - [İleri Python](https://app.patika.dev/moduller/ileri-python) ✅
-- [Python-Numpy](https://app.patika.dev/moduller/python-numpy) ✏️
+- [Python-Numpy](https://app.patika.dev/moduller/python-numpy) ✅
 - [Yazılım Dünyasında Kariyer Basamakları](https://app.patika.dev/moduller/yazilim-dunyasinda-kariyer-basamaklari) ✏️
-- [Veri Bilimi 101](https://app.patika.dev/moduller/veri-bilimi-101)
-- [Veri Bilimi Projeleri](https://app.patika.dev/moduller/veri-bilimi-projeleri)
-- [Freelance ve Remote Çalışma, İş Süreçleri](https://app.patika.dev/moduller/freelance-ve-remote-calisma-is-surecleri)
+- [Veri Bilimi 101](https://app.patika.dev/moduller/veri-bilimi-101) ✅
+- [Veri Bilimi Projeleri](https://app.patika.dev/moduller/veri-bilimi-projeleri)✏️
+- [Freelance ve Remote Çalışma, İş Süreçleri](https://app.patika.dev/moduller/freelance-ve-remote-calisma-is-surecleri) ✅
 
 
 
